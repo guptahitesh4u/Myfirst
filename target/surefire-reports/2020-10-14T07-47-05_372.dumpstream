@@ -1,0 +1,4 @@
+# Created at 2020-10-14T07:47:05.808
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Automation\Trial\EMCO\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

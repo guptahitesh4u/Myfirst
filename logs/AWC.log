@@ -1,0 +1,301 @@
+13:12:55.769 [main] INFO  ADV.EMCO.login - Record Number 1 Processed:19649948
+13:15:38.705 [main] INFO  ADV.EMCO.login - Record Number 2 Processed:19649964
+13:15:49.382 [main] INFO  ADV.EMCO.login - Record Number 3 Processed:19649966
+13:15:59.785 [main] INFO  ADV.EMCO.login - Record Number 4 Processed:19649970
+13:17:28.943 [main] INFO  ADV.EMCO.login - Record Number 5 Processed:19650008
+13:17:38.808 [main] INFO  ADV.EMCO.login - Record Number 6 Processed:19650010
+13:17:48.939 [main] INFO  ADV.EMCO.login - Record Number 7 Processed:19650020
+13:18:00.179 [main] INFO  ADV.EMCO.login - Record Number 8 Processed:19650054
+13:18:10.428 [main] INFO  ADV.EMCO.login - Record Number 9 Processed:19650070
+13:18:19.897 [main] INFO  ADV.EMCO.login - Record Number 10 Processed:19650105
+13:18:30.199 [main] INFO  ADV.EMCO.login - Record Number 11 Processed:19650152
+13:18:40.158 [main] INFO  ADV.EMCO.login - Record Number 12 Processed:19650186
+13:18:49.872 [main] INFO  ADV.EMCO.login - Record Number 13 Processed:19650945
+13:19:00.075 [main] INFO  ADV.EMCO.login - Record Number 14 Processed:19650970
+13:19:09.906 [main] INFO  ADV.EMCO.login - Record Number 15 Processed:19651047
+13:19:19.448 [main] INFO  ADV.EMCO.login - Record Number 16 Processed:19651058
+13:19:30.725 [main] INFO  ADV.EMCO.login - Record Number 17 Processed:19651108
+13:19:40.375 [main] INFO  ADV.EMCO.login - Record Number 18 Processed:19651130
+13:19:52.171 [main] INFO  ADV.EMCO.login - Record Number 19 Processed:19651133
+13:20:02.416 [main] INFO  ADV.EMCO.login - Record Number 20 Processed:19651134
+13:20:12.325 [main] INFO  ADV.EMCO.login - Record Number 21 Processed:19651138
+13:20:22.530 [main] INFO  ADV.EMCO.login - Record Number 22 Processed:19651148
+13:20:32.019 [main] INFO  ADV.EMCO.login - Record Number 23 Processed:19651150
+13:20:41.918 [main] INFO  ADV.EMCO.login - Record Number 24 Processed:19651153
+13:20:52.228 [main] INFO  ADV.EMCO.login - Record Number 25 Processed:19651197
+13:21:02.692 [main] INFO  ADV.EMCO.login - Record Number 26 Processed:19651244
+13:21:16.968 [main] INFO  ADV.EMCO.login - Record Number 27 Processed:19651272
+13:21:28.330 [main] INFO  ADV.EMCO.login - Record Number 28 Processed:19651276
+13:21:38.550 [main] INFO  ADV.EMCO.login - Record Number 29 Processed:19651291
+13:21:48.717 [main] INFO  ADV.EMCO.login - Record Number 30 Processed:19651317
+13:21:58.556 [main] INFO  ADV.EMCO.login - Record Number 31 Processed:19651356
+13:22:08.417 [main] INFO  ADV.EMCO.login - Record Number 32 Processed:19651367
+13:22:18.439 [main] INFO  ADV.EMCO.login - Record Number 33 Processed:19651384
+13:22:29.518 [main] INFO  ADV.EMCO.login - Record Number 34 Processed:19651388
+13:22:40.179 [main] INFO  ADV.EMCO.login - Record Number 35 Processed:19651398
+13:22:50.181 [main] INFO  ADV.EMCO.login - Record Number 36 Processed:19651956
+13:23:01.370 [main] INFO  ADV.EMCO.login - Record Number 37 Processed:19651962
+13:23:11.871 [main] INFO  ADV.EMCO.login - Record Number 38 Processed:19652030
+13:23:21.793 [main] INFO  ADV.EMCO.login - Record Number 39 Processed:19652035
+13:23:30.763 [main] INFO  ADV.EMCO.login - Record Number 40 Processed:19652044
+13:23:42.182 [main] INFO  ADV.EMCO.login - Record Number 41 Processed:19652054
+13:23:53.899 [main] INFO  ADV.EMCO.login - Record Number 42 Processed:19652062
+13:24:04.763 [main] INFO  ADV.EMCO.login - Record Number 43 Processed:19652170
+13:24:16.074 [main] INFO  ADV.EMCO.login - Record Number 44 Processed:19652176
+13:24:26.296 [main] INFO  ADV.EMCO.login - Record Number 45 Processed:19652183
+13:24:38.260 [main] INFO  ADV.EMCO.login - Record Number 46 Processed:19652186
+13:24:48.830 [main] INFO  ADV.EMCO.login - Record Number 47 Processed:19652194
+13:24:59.246 [main] INFO  ADV.EMCO.login - Record Number 48 Processed:19652195
+13:25:09.064 [main] INFO  ADV.EMCO.login - Record Number 49 Processed:19652215
+13:25:19.861 [main] INFO  ADV.EMCO.login - Record Number 50 Processed:19652224
+13:25:31.748 [main] INFO  ADV.EMCO.login - Record Number 51 Processed:19652242
+13:25:41.092 [main] INFO  ADV.EMCO.login - Record Number 52 Processed:19653134
+13:25:50.680 [main] INFO  ADV.EMCO.login - Record Number 53 Processed:19653136
+13:26:00.132 [main] INFO  ADV.EMCO.login - Record Number 54 Processed:19653184
+13:26:10.077 [main] INFO  ADV.EMCO.login - Record Number 55 Processed:19653239
+13:26:19.639 [main] INFO  ADV.EMCO.login - Record Number 56 Processed:19649878
+13:26:29.309 [main] INFO  ADV.EMCO.login - Record Number 57 Processed:19649746
+13:26:39.875 [main] INFO  ADV.EMCO.login - Record Number 58 Processed:19649848
+13:26:50.161 [main] INFO  ADV.EMCO.login - Record Number 59 Processed:19649870
+13:27:00.415 [main] INFO  ADV.EMCO.login - Record Number 60 Processed:19649912
+13:27:10.770 [main] INFO  ADV.EMCO.login - Record Number 61 Processed:19649928
+13:27:20.741 [main] INFO  ADV.EMCO.login - Record Number 62 Processed:19649943
+13:27:30.452 [main] INFO  ADV.EMCO.login - Record Number 63 Processed:19649969
+13:27:40.372 [main] INFO  ADV.EMCO.login - Record Number 64 Processed:19649981
+13:27:50.466 [main] INFO  ADV.EMCO.login - Record Number 65 Processed:19650000
+13:28:00.557 [main] INFO  ADV.EMCO.login - Record Number 66 Processed:19650029
+13:28:10.307 [main] INFO  ADV.EMCO.login - Record Number 67 Processed:19650038
+13:28:20.107 [main] INFO  ADV.EMCO.login - Record Number 68 Processed:19650060
+13:28:29.773 [main] INFO  ADV.EMCO.login - Record Number 69 Processed:19650072
+13:28:39.747 [main] INFO  ADV.EMCO.login - Record Number 70 Processed:19650078
+13:28:49.666 [main] INFO  ADV.EMCO.login - Record Number 71 Processed:19650082
+13:28:59.281 [main] INFO  ADV.EMCO.login - Record Number 72 Processed:19650128
+13:29:13.502 [main] INFO  ADV.EMCO.login - Record Number 73 Processed:19650183
+13:29:23.973 [main] INFO  ADV.EMCO.login - Record Number 74 Processed:19650937
+13:29:34.591 [main] INFO  ADV.EMCO.login - Record Number 75 Processed:19650953
+13:29:46.128 [main] INFO  ADV.EMCO.login - Record Number 76 Processed:19651025
+13:29:57.623 [main] INFO  ADV.EMCO.login - Record Number 77 Processed:19651029
+13:30:08.488 [main] INFO  ADV.EMCO.login - Record Number 78 Processed:19651052
+13:30:18.909 [main] INFO  ADV.EMCO.login - Record Number 79 Processed:19651053
+13:30:29.457 [main] INFO  ADV.EMCO.login - Record Number 80 Processed:19651056
+13:30:40.336 [main] INFO  ADV.EMCO.login - Record Number 81 Processed:19651131
+13:30:51.555 [main] INFO  ADV.EMCO.login - Record Number 82 Processed:19651169
+13:31:02.491 [main] INFO  ADV.EMCO.login - Record Number 83 Processed:19651170
+13:31:13.592 [main] INFO  ADV.EMCO.login - Record Number 84 Processed:19651173
+13:31:27.832 [main] INFO  ADV.EMCO.login - Record Number 85 Processed:19651179
+13:31:38.730 [main] INFO  ADV.EMCO.login - Record Number 86 Processed:19651195
+13:31:49.158 [main] INFO  ADV.EMCO.login - Record Number 87 Processed:19651204
+13:32:00.109 [main] INFO  ADV.EMCO.login - Record Number 88 Processed:19651216
+13:32:09.942 [main] INFO  ADV.EMCO.login - Record Number 89 Processed:19651246
+13:32:19.264 [main] INFO  ADV.EMCO.login - Record Number 90 Processed:19651254
+13:32:29.145 [main] INFO  ADV.EMCO.login - Record Number 91 Processed:19651256
+13:32:38.580 [main] INFO  ADV.EMCO.login - Record Number 92 Processed:19651259
+13:32:47.883 [main] INFO  ADV.EMCO.login - Record Number 93 Processed:19651265
+13:33:00.567 [main] INFO  ADV.EMCO.login - Record Number 94 Processed:19651271
+13:33:10.682 [main] INFO  ADV.EMCO.login - Record Number 95 Processed:19651300
+13:33:21.426 [main] INFO  ADV.EMCO.login - Record Number 96 Processed:19651337
+13:33:31.748 [main] INFO  ADV.EMCO.login - Record Number 97 Processed:19651340
+13:33:43.085 [main] INFO  ADV.EMCO.login - Record Number 98 Processed:19651341
+13:33:52.749 [main] INFO  ADV.EMCO.login - Record Number 99 Processed:19651352
+13:34:02.171 [main] INFO  ADV.EMCO.login - Record Number 100 Processed:19651918
+13:35:23.410 [main] INFO  ADV.EMCO.login - Record Number 101 Processed:19651981
+13:35:34.639 [main] INFO  ADV.EMCO.login - Record Number 102 Processed:19652017
+13:35:44.372 [main] INFO  ADV.EMCO.login - Record Number 103 Processed:19652019
+13:35:56.769 [main] INFO  ADV.EMCO.login - Record Number 104 Processed:19652022
+13:36:08.293 [main] INFO  ADV.EMCO.login - Record Number 105 Processed:19652032
+13:36:19.287 [main] INFO  ADV.EMCO.login - Record Number 106 Processed:19652122
+13:36:30.405 [main] INFO  ADV.EMCO.login - Record Number 107 Processed:19652150
+13:36:40.990 [main] INFO  ADV.EMCO.login - Record Number 108 Processed:19652158
+13:36:51.215 [main] INFO  ADV.EMCO.login - Record Number 109 Processed:19652162
+13:37:01.392 [main] INFO  ADV.EMCO.login - Record Number 110 Processed:19652168
+13:37:13.478 [main] INFO  ADV.EMCO.login - Record Number 111 Processed:19652169
+13:37:24.700 [main] INFO  ADV.EMCO.login - Record Number 112 Processed:19652180
+13:37:34.414 [main] INFO  ADV.EMCO.login - Record Number 113 Processed:19652181
+13:37:43.608 [main] INFO  ADV.EMCO.login - Record Number 114 Processed:19652199
+13:37:52.193 [main] INFO  ADV.EMCO.login - Record Number 115 Processed:19652205
+13:38:01.622 [main] INFO  ADV.EMCO.login - Record Number 116 Processed:19652209
+13:38:11.663 [main] INFO  ADV.EMCO.login - Record Number 117 Processed:19652214
+13:38:22.333 [main] INFO  ADV.EMCO.login - Record Number 118 Processed:19652227
+13:38:32.131 [main] INFO  ADV.EMCO.login - Record Number 119 Processed:19652230
+13:38:41.727 [main] INFO  ADV.EMCO.login - Record Number 120 Processed:19652234
+13:38:58.831 [main] INFO  ADV.EMCO.login - Record Number 121 Processed:19652241
+13:39:10.340 [main] INFO  ADV.EMCO.login - Record Number 122 Processed:19653141
+13:39:19.754 [main] INFO  ADV.EMCO.login - Record Number 123 Processed:19653161
+13:39:30.507 [main] INFO  ADV.EMCO.login - Record Number 124 Processed:19653172
+13:39:41.369 [main] INFO  ADV.EMCO.login - Record Number 125 Processed:19653183
+13:39:50.925 [main] INFO  ADV.EMCO.login - Record Number 126 Processed:19653209
+13:40:00.789 [main] INFO  ADV.EMCO.login - Record Number 127 Processed:19653212
+13:40:12.521 [main] INFO  ADV.EMCO.login - Record Number 128 Processed:19653216
+13:40:24.393 [main] INFO  ADV.EMCO.login - Record Number 129 Processed:19653223
+13:40:34.473 [main] INFO  ADV.EMCO.login - Record Number 130 Processed:19653229
+13:40:44.407 [main] INFO  ADV.EMCO.login - Record Number 131 Processed:19653230
+13:40:55.590 [main] INFO  ADV.EMCO.login - Record Number 132 Processed:19653234
+13:41:05.185 [main] INFO  ADV.EMCO.login - Record Number 133 Processed:19649744
+13:41:14.755 [main] INFO  ADV.EMCO.login - Record Number 134 Processed:19649785
+13:41:25.412 [main] INFO  ADV.EMCO.login - Record Number 135 Processed:19649795
+13:41:36.805 [main] INFO  ADV.EMCO.login - Record Number 136 Processed:19649798
+13:41:47.697 [main] INFO  ADV.EMCO.login - Record Number 137 Processed:19649800
+13:41:59.878 [main] INFO  ADV.EMCO.login - Record Number 138 Processed:19649814
+13:42:10.321 [main] INFO  ADV.EMCO.login - Record Number 139 Processed:19649823
+13:42:20.185 [main] INFO  ADV.EMCO.login - Record Number 140 Processed:19649845
+13:42:30.073 [main] INFO  ADV.EMCO.login - Record Number 141 Processed:19649847
+13:42:39.807 [main] INFO  ADV.EMCO.login - Record Number 142 Processed:19649872
+13:42:50.940 [main] INFO  ADV.EMCO.login - Record Number 143 Processed:19649905
+13:43:01.611 [main] INFO  ADV.EMCO.login - Record Number 144 Processed:19649926
+13:43:11.551 [main] INFO  ADV.EMCO.login - Record Number 145 Processed:19649940
+13:43:23.884 [main] INFO  ADV.EMCO.login - Record Number 146 Processed:19649973
+13:43:34.725 [main] INFO  ADV.EMCO.login - Record Number 147 Processed:19649987
+13:43:44.658 [main] INFO  ADV.EMCO.login - Record Number 148 Processed:19650011
+13:43:54.177 [main] INFO  ADV.EMCO.login - Record Number 149 Processed:19650024
+13:44:05.463 [main] INFO  ADV.EMCO.login - Record Number 150 Processed:19650044
+13:44:15.628 [main] INFO  ADV.EMCO.login - Record Number 151 Processed:19650058
+13:44:26.553 [main] INFO  ADV.EMCO.login - Record Number 152 Processed:19650063
+13:44:36.322 [main] INFO  ADV.EMCO.login - Record Number 153 Processed:19650065
+13:44:46.737 [main] INFO  ADV.EMCO.login - Record Number 154 Processed:19650071
+13:44:58.317 [main] INFO  ADV.EMCO.login - Record Number 155 Processed:19650123
+13:45:11.009 [main] INFO  ADV.EMCO.login - Record Number 156 Processed:19650127
+13:45:26.216 [main] INFO  ADV.EMCO.login - Record Number 157 Processed:19650156
+13:45:37.256 [main] INFO  ADV.EMCO.login - Record Number 158 Processed:19650166
+13:45:47.320 [main] INFO  ADV.EMCO.login - Record Number 159 Processed:19650178
+13:45:56.958 [main] INFO  ADV.EMCO.login - Record Number 160 Processed:19650934
+13:46:07.075 [main] INFO  ADV.EMCO.login - Record Number 161 Processed:19650958
+13:52:10.799 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 162 Processed:19650962
+13:52:21.147 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 163 Processed:19650963
+13:52:32.987 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 164 Processed:19650994
+13:52:43.900 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 165 Processed:19651027
+13:52:55.538 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 166 Processed:19651040
+13:53:05.222 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 167 Processed:19651054
+13:53:15.719 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 168 Processed:19651132
+13:53:26.105 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 169 Processed:19651140
+13:53:36.797 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 170 Processed:19651189
+13:53:46.642 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 171 Processed:19651194
+13:54:00.233 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 172 Processed:19651226
+13:54:11.429 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 173 Processed:19651258
+13:54:21.544 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 174 Processed:19651262
+13:54:32.461 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 175 Processed:19651263
+13:54:44.591 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 176 Processed:19651269
+13:54:54.197 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 177 Processed:19651274
+13:55:03.701 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 178 Processed:19651292
+13:55:14.081 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 179 Processed:19651294
+13:55:25.472 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 180 Processed:19651313
+13:55:35.348 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 181 Processed:19651323
+13:55:44.880 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 182 Processed:19651325
+13:55:55.430 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 183 Processed:19651376
+13:56:06.606 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 184 Processed:19651385
+13:56:16.656 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 185 Processed:19651397
+13:56:26.280 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 186 Processed:19651917
+13:56:35.941 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 187 Processed:19651944
+13:56:45.473 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 188 Processed:19652027
+13:56:57.138 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 189 Processed:19652043
+13:57:07.791 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 190 Processed:19652068
+13:57:17.776 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 191 Processed:19652069
+13:57:28.793 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 192 Processed:19652082
+13:57:40.768 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 193 Processed:19652163
+13:57:50.663 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 194 Processed:19652178
+13:58:00.386 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 195 Processed:19652240
+13:58:10.415 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 196 Processed:19653173
+13:58:20.754 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 197 Processed:19653232
+13:58:31.477 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 198 Processed:19653235
+13:58:42.760 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 199 Processed:19649747
+13:58:52.520 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 200 Processed:19649766
+14:02:00.634 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 201 Processed:19649786
+14:02:10.287 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 202 Processed:19649794
+14:02:19.804 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 203 Processed:19649803
+14:02:29.836 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 204 Processed:19649813
+14:02:41.106 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 205 Processed:19649815
+14:02:50.560 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 206 Processed:19649860
+14:03:02.921 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 207 Processed:19649873
+14:03:14.196 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 208 Processed:19649900
+14:03:24.335 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 209 Processed:19649927
+14:03:34.041 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 210 Processed:19649967
+14:03:44.018 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 211 Processed:19650043
+14:03:55.748 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 212 Processed:19650053
+14:04:05.297 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 213 Processed:19650073
+14:04:14.921 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 214 Processed:19650124
+14:04:24.235 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 215 Processed:19650126
+14:04:34.931 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 216 Processed:19650184
+14:04:45.334 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 217 Processed:19650935
+14:04:55.569 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 218 Processed:19650946
+14:05:05.325 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 219 Processed:19650949
+14:05:15.938 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 220 Processed:19650956
+14:05:26.107 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 221 Processed:19650960
+14:05:35.704 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 222 Processed:19650969
+14:05:45.760 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 223 Processed:19650989
+14:05:58.518 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 224 Processed:19650993
+14:06:09.311 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 225 Processed:19651048
+14:06:19.457 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 226 Processed:19651103
+14:06:30.400 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 227 Processed:19651104
+14:06:39.768 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 228 Processed:19651142
+14:06:50.133 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 229 Processed:19651154
+14:06:59.719 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 230 Processed:19651157
+14:07:10.982 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 231 Processed:19651167
+14:07:21.942 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 232 Processed:19651172
+14:07:34.889 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 233 Processed:19651181
+14:07:44.699 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 234 Processed:19651184
+14:07:54.596 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 235 Processed:19651222
+14:08:04.525 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 236 Processed:19651229
+14:08:15.213 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 237 Processed:19651247
+14:08:25.554 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 238 Processed:19651264
+14:08:35.510 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 239 Processed:19651278
+14:08:45.463 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 240 Processed:19651279
+14:08:55.543 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 241 Processed:19651311
+14:09:07.263 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 242 Processed:19651339
+14:09:17.152 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 243 Processed:19651920
+14:09:27.672 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 244 Processed:19651931
+14:09:37.182 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 245 Processed:19651943
+14:09:47.796 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 246 Processed:19651953
+14:09:57.420 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 247 Processed:19652039
+14:10:08.059 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 248 Processed:19652087
+14:10:18.735 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 249 Processed:19652146
+14:10:31.253 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 250 Processed:19652154
+14:10:41.408 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 251 Processed:19652160
+14:10:51.758 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 252 Processed:19652173
+14:11:02.567 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 253 Processed:19652236
+14:11:12.674 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 254 Processed:19653115
+14:11:22.010 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 255 Processed:19653120
+14:11:32.237 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 256 Processed:19653138
+14:11:41.815 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 257 Processed:19653152
+14:11:51.466 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 258 Processed:19653199
+14:12:04.803 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 259 Processed:19653222
+14:12:15.500 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 260 Processed:19649757
+14:12:25.342 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 261 Processed:19649769
+14:12:34.595 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 262 Processed:19649818
+14:12:44.256 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 263 Processed:19649819
+14:12:54.083 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 264 Processed:19649825
+14:13:04.276 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 265 Processed:19649841
+14:13:13.514 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 266 Processed:19649861
+14:13:23.077 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 267 Processed:19649862
+14:13:36.827 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 268 Processed:19649871
+14:13:46.051 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 269 Processed:19649875
+14:13:56.427 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 270 Processed:19649888
+14:14:05.935 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 271 Processed:19649909
+14:14:16.646 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 272 Processed:19649942
+14:14:28.366 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 273 Processed:19649971
+14:14:38.581 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 274 Processed:19649984
+14:14:51.087 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 275 Processed:19649988
+14:15:09.087 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 276 Processed:19650021
+14:15:19.804 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 277 Processed:19650040
+14:15:31.258 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 278 Processed:19650069
+14:15:41.920 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 279 Processed:19650079
+14:15:52.360 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 280 Processed:19650114
+14:16:03.898 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 281 Processed:19650138
+14:16:14.980 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 282 Processed:19650147
+14:16:25.474 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 283 Processed:19650163
+14:16:41.560 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 284 Processed:19650169
+14:16:52.550 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 285 Processed:19650170
+14:17:03.306 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 286 Processed:19650171
+14:17:14.238 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 287 Processed:19650930
+14:17:25.243 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 288 Processed:19650942
+14:17:34.821 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 289 Processed:19650950
+14:17:45.317 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 290 Processed:19650975
+14:17:55.280 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 291 Processed:19651026
+14:18:11.044 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 292 Processed:19651032
+14:18:23.115 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 293 Processed:19651046
+14:18:34.203 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 294 Processed:19651096
+14:18:43.372 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 295 Processed:19651105
+14:18:51.661 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 296 Processed:19651145
+14:19:00.293 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 297 Processed:19651162
+14:19:08.448 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 298 Processed:19651174
+14:19:17.534 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 299 Processed:19651203
+14:19:27.611 [main] INFO  ADV.EMCO.login - Measure::AWC Record Number 300 Processed:19651261
+
